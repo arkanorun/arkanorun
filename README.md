@@ -2,4 +2,4 @@
 - 🌱 Sou Formado em engenharia de minas pela UFPE desde 2014, mas resolvi me aventurar na área de programação, área pela qual me identifiquei bastante e acabei desenvolvendo uma grande paixão.
 - 🌱 A fim de iniciar meus conhecimentos nesse ramo, ingressei no curso de desenvolvedor JavaScript Back-End na Cubos Academy e no programa 1000 devs talentos para o bem ofertado pela mesttra em parceria com a Jonson & Johnson e com o hospital Albert Einstein, ambos em 2023, para me tornar um programador Junior e conquistar meu lugar nesse mercado.
 - 💞️ Meu foco, após o terminos desses cursos, é continuar estudando para me tornar um programador Full Stack em Java Script , bem como iniciar o aprendizado em outras linguagem para ampliar meu leque de conhecimentos em programação.
-- 👀 No momento estou em busca de vagas como programador JavaScript Back-End Jr. 
+- 👀 No momento estou em busca de vagas como programador JavaScript Back-End Jr, porém estou aberto as vagas na área de tecnologia em que meu perfil demonstre poder desempenhar as funções exigidas. 
